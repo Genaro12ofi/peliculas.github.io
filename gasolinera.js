@@ -23,7 +23,7 @@ var gasolineras = [
     },
 
          {
-        id: 2,
+        id: 3,
         nombre: "Ranitaw",
         latitud: 19.36965903495495,
         longitud: -99.6954520046711,
