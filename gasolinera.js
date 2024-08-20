@@ -9,7 +9,7 @@ var gasolineras = [
         precioverde: "$22.50",
         ubicacion: "Autopista Libramiento KM 19.5, Laa trojes, Temoaya, Méx.",
         preciodiesel: "$24.59"
-    }
+    },
      {
         id: 2,
         nombre: "Ranitaw",
