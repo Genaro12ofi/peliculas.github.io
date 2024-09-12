@@ -31,7 +31,7 @@ var gasolineras = [
         precioroja: "$22.65",
         precioverde: "$22.50",
         ubicacion: "Autopista Libramiento KM 19.5, Laa trojes, Temoaya, Méx.",
-        preciodiesel: "$22.59"
+        preciodiesel: "$22.29"
     }
     // Puedes agregar más gasolineras aquí siguiendo el mismo formato
 ];
